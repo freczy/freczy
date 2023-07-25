@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @freczy
 - 👀 I’m interested in programming and trading in the financial market
-- 🌱 I’m currently learning python and a SWE student at alx africa
 - 💞️ I’m looking to collaborate with python programmers and programmers in general
 - 📫 gmail: akinyelesamuel26@gmail.com 
 
